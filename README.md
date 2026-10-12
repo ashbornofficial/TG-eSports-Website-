@@ -69,13 +69,6 @@ This project combines a bold gaming identity with a structured, responsive web e
 
 Features depend on the current implementation of the project. Some listed capabilities may still be under development.
 
-📜 License
-
-This project is licensed under the MIT License.
-
-You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of this software, subject to the conditions of the MIT License.
-
-See the LICENSE file for the complete license text.
 
 🎮 Final Words
 
