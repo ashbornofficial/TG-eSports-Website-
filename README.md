@@ -25,6 +25,27 @@ From player profiles and competitive tournaments to match results and the latest
 
 This project combines a bold gaming identity with a structured, responsive web experience.
 
+## 🌐 Experience TotalGamingEsports
+
+<p align="center">
+  <b>THE GAME DOESN'T STOP HERE.</b><br>
+  Explore the digital home of TotalGamingEsports.
+</p>
+
+<p align="center">
+  <a href="https://totalgamingesports.online/">
+    <img src="https://img.shields.io/badge/🚀_EXPLORE_LIVE_WEBSITE-9146FF?style=for-the-badge&logoColor=white" alt="Explore Live Website">
+  </a>
+</p>
+
+<p align="center">
+  Discover the team. Explore the tournaments. Witness the legacy.
+</p>
+
+> **Live Demo:** [Visit TotalGamingEsports](https://totalgamingesports.online/))
+
+
+
 ✨ Features
 
 🏆 Tournament Hub — Showcase upcoming, live, and completed tournaments.
