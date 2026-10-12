@@ -1,4 +1,4 @@
-🎮 TotalGamingEsports — Official Website
+<p align="center">🎮 TotalGamingEsports — Fan Website</p>
 
 <p align="center">
   <img src="assets/img/logo.webp" alt="TotalGamingEsports Logo" width="120">
