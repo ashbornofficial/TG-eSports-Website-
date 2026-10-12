@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-Total-Gaming-Esports-9146FF?style=for-the-badge&logo=gamepad&logoColor=white" alt="Project">
-  <img src="https://img.shields.io/badge/HTML-5-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="CSS">
-   <img src="https://img.shields.io/badge/JS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="JS">
+  <img src="https://img.shields.io/badge/Project-TotalGamingEsports-9146FF?style=for-the-badge&logo=gamepad&logoColor=white" alt="Project">
+  <img src="https://img.shields.io/badge/HTML-5-777BB4?style=for-the-badge&logo=html&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-4479A1?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+   <img src="https://img.shields.io/badge/JS-4479A1?style=for-the-badge&logo=js&logoColor=white" alt="JS">
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="Status">
 </p>
 
