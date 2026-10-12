@@ -1,7 +1,7 @@
 🎮 TotalGamingEsports — Official Website
 
 <p align="center">
-  <img src="assets/img/logo.png" alt="TotalGamingEsports Logo" width="120">
+  <img src="assets/img/logo.webp" alt="TotalGamingEsports Logo" width="120">
 </p>
 
 <h3 align="center">BUILT TO COMPETE. BORN TO WIN.</h3>
@@ -17,14 +17,6 @@
    <img src="https://img.shields.io/badge/JS-4479A1?style=for-the-badge&logo=js&logoColor=white" alt="JS">
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="Status">
 </p>
-
-⚡ About the Project
-
-TotalGamingEsports is a gaming-focused website project built to bring an esports organization's digital presence into one place.
-
-From player profiles and competitive tournaments to match results and the latest esports updates, the goal is to create a professional platform where fans can follow the team's journey.
-
-This project combines a bold gaming identity with a structured, responsive web experience.
 
 ## 🌐 Experience TotalGamingEsports
 
@@ -45,6 +37,14 @@ This project combines a bold gaming identity with a structured, responsive web e
 
 > **Live Demo:** [Visit TotalGamingEsports](https://totalgamingesports.online/))
 
+
+⚡ About the Project
+
+TotalGamingEsports is a gaming-focused website project built to bring an esports organization's digital presence into one place.
+
+From player profiles and competitive tournaments to match results and the latest esports updates, the goal is to create a professional platform where fans can follow the team's journey.
+
+This project combines a bold gaming identity with a structured, responsive web experience.
 
 
 ✨ Features
